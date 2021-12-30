@@ -1,0 +1,10 @@
+npm install discord.js dotenv
+
+npm install -g typescript ts-node
+
+npm install -g nodemon
+
+tsc -init
+
+ts-node index.ts
+
